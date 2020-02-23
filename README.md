@@ -1,0 +1,2 @@
+# spss
+Napelemes rendszer kalkulátor 
