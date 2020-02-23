@@ -1,2 +1,2 @@
-# spss
+# SolarPanelSystemSOFT
 Napelemes rendszer kalkulátor 
