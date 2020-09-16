@@ -1,2 +1,2 @@
 # SolarPanelSystemSOFT
-Napelemes rendszer kalkulátor 
+Napelemes rendszer kalkulátor [HMKE]
